@@ -1,0 +1,180 @@
+{
+    "offDuty": [
+      {
+        "ID": "#12345",
+        "ADE": "AED 40.50",
+       "Name": "Mitesh",
+       "Rate": "3.0",
+     "Driver": "963  Driver Suite 679 UAE",
+     "km": "0.5 km away",
+     "Delivery": "13 Feb 2021 | 09 :00 PM"
+    },
+     {
+         "ID": "#12345",
+         "ADE": "AED 40.50",
+        "Name": "Rahul",
+        "Rate": "3.0",
+      "Driver": "963  Driver Suite 679 UAE",
+      "km": "0.5 km away",
+      "Delivery": "13 Feb 2021 | 09 :00 PM"
+     },
+     {
+        "ID": "#12345",
+        "ADE": "AED 40.50",
+       "Name": "Jigar",
+       "Rate": "3.0",
+     "Driver": "963  Driver Suite 679 UAE",
+     "km": "0.5 km away",
+     "Delivery": "13 Feb 2021 | 09 :00 PM"
+    },
+    {
+       "ID": "#12345",
+       "ADE": "AED 40.50",
+      "Name": "Nayan",
+      "Rate": "3.0",
+    "Driver": "963  Driver Suite 679 UAE",
+    "km": "0.5 km away",
+    "Delivery": "13 Feb 2021 | 09 :00 PM"
+   },
+     {
+        "ID": "#12345",
+        "ADE": "AED 40.50",
+       "Name": "Jaydip",
+       "Rate": "3.0",
+     "Driver": "963  Driver Suite 679 UAE",
+     "km": "0.5 km away",
+     "Delivery": "13 Feb 2021 | 09 :00 PM"
+    },
+     {
+        "ID": "#12345",
+        "ADE": "AED 40.50",
+       "Name": "Samir",
+       "Rate": "3.0",
+     "Driver": "963  Driver Suite 679 UAE",
+     "km": "0.5 km away",
+     "Delivery": "13 Feb 2021 | 09 :00 PM"
+    },
+     {
+        "ID": "#12345",
+        "ADE": "AED 40.50",
+       "Name": "ramesh",
+       "Rate": "3.0",
+     "Driver": "963  Driver Suite 679 UAE",
+     "km": "0.5 km away",
+     "Delivery": "13 Feb 2021 | 09 :00 PM"
+    }
+    ],
+    "onDelivery": [
+        {
+            "ID": "#12345",
+            "ADE": "AED 40.50",
+           "Name": "ramesh",
+           "Rate": "3.0",
+         "Driver": "963  Driver Suite 679 UAE",
+         "km": "0.5 km away",
+         "Delivery": "13 Feb 2021 | 09 :00 PM"
+        },
+        {
+           "ID": "#12345",
+           "ADE": "AED 40.50",
+          "Name": "ramesh",
+          "Rate": "3.0",
+        "Driver": "963  Driver Suite 679 UAE",
+        "km": "0.5 km away",
+        "Delivery": "13 Feb 2021 | 09 :00 PM"
+       },
+       {
+          "ID": "#12345",
+          "ADE": "AED 40.50",
+         "Name": "ramesh",
+         "Rate": "3.0",
+       "Driver": "963  Driver Suite 679 UAE",
+       "km": "0.5 km away",
+       "Delivery": "13 Feb 2021 | 09 :00 PM"
+      },
+        {
+           "ID": "#12345",
+           "ADE": "AED 40.50",
+          "Name": "ramesh",
+          "Rate": "3.0",
+        "Driver": "963  Driver Suite 679 UAE",
+        "km": "0.5 km away",
+        "Delivery": "13 Feb 2021 | 09 :00 PM"
+       },
+        {
+           "ID": "#12345",
+           "ADE": "AED 40.50",
+          "Name": "ramesh",
+          "Rate": "3.0",
+        "Driver": "963  Driver Suite 679 UAE",
+        "km": "0.5 km away",
+        "Delivery": "13 Feb 2021 | 09 :00 PM"
+       },
+        {
+           "ID": "#12345",
+           "ADE": "AED 40.50",
+          "Name": "ramesh",
+          "Rate": "3.0",
+        "Driver": "963  Driver Suite 679 UAE",
+        "km": "0.5 km away",
+        "Delivery": "13 Feb 2021 | 09 :00 PM"
+       }
+    ]
+    ,
+    "Available": [
+        {
+            "ID": "#12345",
+            "ADE": "AED 40.50",
+           "Name": "ramesh",
+           "Rate": "3.0",
+         "Driver": "963  Driver Suite 679 UAE",
+         "km": "0.5 km away",
+         "Delivery": "13 Feb 2021 | 09 :00 PM"
+        },
+        {
+           "ID": "#12345",
+           "ADE": "AED 40.50",
+          "Name": "ramesh",
+          "Rate": "3.0",
+        "Driver": "963  Driver Suite 679 UAE",
+        "km": "0.5 km away",
+        "Delivery": "13 Feb 2021 | 09 :00 PM"
+       },
+       {
+          "ID": "#12345",
+          "ADE": "AED 40.50",
+         "Name": "ramesh",
+         "Rate": "3.0",
+       "Driver": "963  Driver Suite 679 UAE",
+       "km": "0.5 km away",
+       "Delivery": "13 Feb 2021 | 09 :00 PM"
+      },
+        {
+           "ID": "#12345",
+           "ADE": "AED 40.50",
+          "Name": "ramesh",
+          "Rate": "3.0",
+        "Driver": "963  Driver Suite 679 UAE",
+        "km": "0.5 km away",
+        "Delivery": "13 Feb 2021 | 09 :00 PM"
+       },
+        {
+           "ID": "#12345",
+           "ADE": "AED 40.50",
+          "Name": "ramesh",
+          "Rate": "3.0",
+        "Driver": "963  Driver Suite 679 UAE",
+        "km": "0.5 km away",
+        "Delivery": "13 Feb 2021 | 09 :00 PM"
+       },
+        {
+           "ID": "#12345",
+           "ADE": "AED 40.50",
+          "Name": "suresh",
+          "Rate": "3.0",
+        "Driver": "963  Driver Suite 679 UAE",
+        "km": "0.5 km away",
+        "Delivery": "13 Feb 2021 | 09 :00 PM"
+       }
+      ]
+   }
